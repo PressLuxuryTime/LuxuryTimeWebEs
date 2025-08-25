@@ -864,7 +864,6 @@ body {
   width: 100%;
   margin: 1rem;
   text-align: center;
-  background-image: linear-gradient(to bottom, #d71e17, #db352f);
   padding: 5rem 1rem;
 }
 @media only screen and (max-width: 37.5em) {
