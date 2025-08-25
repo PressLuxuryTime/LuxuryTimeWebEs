@@ -1220,3 +1220,11 @@ body {
     margin-right: 8rem;
   }
 }
+
+.adv__banner {
+  width: 100%;         /* ocupa todo el ancho disponible */
+  max-width: 728px;    /* tamaño máximo en escritorio */
+  height: auto;        /* mantiene proporción de la imagen */
+  display: block;      /* evita espacios raros */
+  margin: 0 auto;      /* centra la imagen */
+}
