@@ -410,6 +410,10 @@ body {
   max-width: 100%;
   height: auto;
 }
+.img-res_auto {
+  max-width: 100%;
+  height: 35rem;
+}
 .img-res_logo {
   max-width: 100%;
   height: 65px;
